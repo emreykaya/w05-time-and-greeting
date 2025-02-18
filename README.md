@@ -1,4 +1,4 @@
-# Patika+ Frontend Bootcamp Hafta-03 / Ödev-02  (Javascript Saat ve Karşılama)
+# Patika+ Frontend Bootcamp Hafta-05 / Ödev-01  (Javascript Saat ve Karşılama)
 
 Bu proje, kullanıcıdan adını alarak ekrana hoş geldin mesajı yazdıran ve anlık olarak güncellenen bir saat içeren basit bir web uygulamasıdır.
 
